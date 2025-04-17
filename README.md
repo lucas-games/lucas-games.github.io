@@ -1,1 +1,2 @@
-# lucas-games.github.io
+# website
+This is a GH Pages repo.
