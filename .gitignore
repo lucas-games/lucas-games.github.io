@@ -20,3 +20,6 @@ Gemfile.lock
 # css and js folders
 css/
 js/
+
+# other folders
+.github/
